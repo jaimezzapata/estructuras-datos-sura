@@ -1,0 +1,19 @@
+Datos Primitivos
+    - String -> Todo valor considerado texto, ""
+    - Number -> Todo valor considerado un numero
+    - Boolean -> Todo valor lógico (true o false)
+    - Null -> Todo valor sin determinar (no tiene valor)
+    - Undefinded -> Todo valor sin inicializar
+
+Datos por Referencia
+    - Arreglos -> Espacio en memoria que almacena multiples tipos de datos (datos primitivos o por referencia)
+        -> Tamaño: Está definidio por la cantidad de elementos que hay dentro del arreglo
+        -> Posiciones: Define el espacio interno del arreglo donde está ubicado un elemento
+        -> Loop-Bucle-Repetición o Referencia directa
+            -> Recorrido: buscar o consultar información
+            -> Llenado: alimentar o almacenar información
+
+    - Objetos -> Estructura de información agrupada por un par elementos: "llave": valor (EL valor puede ser cualquier tipo de dato)
+
+Arreglo Unidimensional o Vector
+Arreglo Bidimensional o Matriz
