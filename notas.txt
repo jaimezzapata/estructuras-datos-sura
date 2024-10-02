@@ -20,3 +20,5 @@ Datos por Referencia
 
 Arreglo Unidimensional o Vector
 Arreglo Bidimensional o Matriz
+
+Hoy vamos a ver Objetos y DOM
